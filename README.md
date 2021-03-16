@@ -21,7 +21,7 @@
     Learn how to price options by applying the Black Scholes formula
     Be comfortable applying for a developer job in a financial institution
     
-###About
+### About
 Hi, I'm Al Ardosa, I'm here to help you and do advanced studying methods.
 
 I've been working as a senior software developer and tech lead in Lazada and other tech companies for many years and am now taking all that I've learned, to teach programming skills and to help you discover the amazing career opportunities of being a developer.
